@@ -26,5 +26,5 @@ hello git hello git
 hello git hello git
 hello git hello git
 hello git hello git
-hello git hello git
-hello git hello git hot fix
+hello git hello git hot-fix edit
+hello git hello git 
